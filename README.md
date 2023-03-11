@@ -1,5 +1,5 @@
 #Arithmetic Operations:
-
+---
 import java.util.Scanner;
 public class MathOperation{
     public static void main(String[] args){
@@ -19,5 +19,6 @@ int rem=num1%num2;
 System.out.println("Remainder of two numbers: "+rem);
     }
 }
+---
 Footer
 © 2023 GitHub, Inc.
